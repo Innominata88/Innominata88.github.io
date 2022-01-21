@@ -3,6 +3,7 @@
 Website Template for Project 3
 
 https://innominata88.github.io/
+https://terpconnect.umd.edu/~ebernhar/Innominata88.github.io/
 
 - Removed header image and changed background color to pink
 - Changed main background color
