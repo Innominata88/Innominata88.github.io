@@ -1,9 +1,8 @@
 
-
 html, body {
     margin: 0;
     padding: 0;
-    background-color: #151C1D
+    background-color: #193989
 }
 
 .nav ul {
@@ -39,7 +38,7 @@ html, body {
 
 .main-header {
     background-color: #5BB0D6;
-    background-image: url('https://freesvg.org/img/1543964391.png');
+    background-image: url('https://publicdomainvectors.org/photos/Pixel-Heart-Background.png');
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
