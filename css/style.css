@@ -44,7 +44,7 @@ html, body {
 }
 
 .main-header {
-    background-color: red;
+    background-color: #5BB0D6;
     background-image: url('https://freesvg.org/img/1543964391.png');
     background-blend-mode: multiply;
     background-size: cover;
@@ -52,7 +52,7 @@ html, body {
 }
 
 .header-strip {
-    background-color: #66b9ec;
+    background-color: #446DD5;
     color: white;
     margin-bottom: 1em;
 }
@@ -72,9 +72,10 @@ html, body {
 .my-name {
     text-align: center;
     margin: 15px;
+    font-family: 'determination-sans-web-regular', sans-serif;
     font-size: 3em;
     font-weight: normal;
-    color: white;
+    color: #F4B843;
 }
 
 .content-section {
@@ -114,8 +115,8 @@ html, body {
 }
 
 .main-footer {
-    background-color: red;
-    color: white;
+    background-color: #7EDA91;
+    color: #F09EA4;
     position: fixed;
     bottom: 0;
     width: 100%;
