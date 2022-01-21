@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Press+Start+2P&family=Source+Code+Pro:wght@200&display=swap');
 
 * {
     box-sizing: border-box;
-    font-family: Raleway;
-    color: rgb(73, 73, 73);
+    font-family: 'Source Code Pro', monospace;
+    color: #151c1d;
 }
 html, body {
     margin: 0;
     padding: 0;
-    background-color: #193989
+    background-color: #5cb0d5;
 }
 
 .nav ul {
@@ -43,15 +43,14 @@ html, body {
 }
 
 .main-header {
-    background-color: #5BB0D6;
-    background-image: url('https://www.freeimageslive.co.uk/image/view/12651/_original');
-    background-blend-mode: multiply;
+    background-color: #ee8bbe;
+    background-blend-mode: lighten;
     background-size: cover;
     padding-bottom: 30px;
 }
 
 .header-strip {
-    background-color: #446DD5;
+    background-color: #ee8bbe
     color: white;
     margin-bottom: 1em;
 }
@@ -71,10 +70,12 @@ html, body {
 .my-name {
     text-align: center;
     margin: 15px;
-    font-family: 'determination-sans-web-regular', sans-serif;
     font-size: 3em;
-    font-weight: normal;
-    color: #F4B843;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 4px #000000;
+    color: white;
 }
 
 .content-section {
@@ -89,10 +90,11 @@ html, body {
 }
 
 .section-header {
-    font-weight: 700;
-    color: #333;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 400;
+    color: #f4b943;
     text-align: center;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .subsection-header {
@@ -101,7 +103,7 @@ html, body {
 }
 
 .about-prof-image {
-    float: left;
+    float: right;
     height: 175px;
     width: 190px;
     margin: 30px;
